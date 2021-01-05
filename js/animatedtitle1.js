@@ -1,8 +1,8 @@
 titlebar(0);
 var rev = "fwd";
 function titlebar(val){
-    var msg  = "Oggiely.xyz";
-    var res = "Oggiely.xyz  ";
+    var msg  = "Fuckniggers.lol";
+    var res = "Fuckniggers.lol  ";
     var speed = 70;
     var pos = val;
     msg = "   -|-"+msg+"-|-";
